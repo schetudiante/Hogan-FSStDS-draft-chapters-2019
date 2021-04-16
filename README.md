@@ -1,3 +1,7 @@
+Note: - [collection of teaching materials](https://github.com/collections/teaching-computational-social-science)
+
+==============================================
+
 Social scientists have a huge opportunity to address current research problems with the rise of big data and technology. However, this opportunity comes with challenges, too – ethical, methodological and theoretical. 
 
 Lecturers also face the pedagogical challenge of bringing new people into the community, often teaching students who have disparate knowledge of and experiences with data, statistics and programming on the one hand, and social research on the other. More than ever, lecturers need pragmatic support for teaching computer scientists alongside social scientists. 
