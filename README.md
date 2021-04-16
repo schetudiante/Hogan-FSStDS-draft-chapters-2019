@@ -1,4 +1,4 @@
-Note: - [collection of teaching materials](https://github.com/collections/teaching-computational-social-science)
+# Note: - [collection of teaching materials](https://github.com/collections/teaching-computational-social-science)
 
 ==============================================
 
